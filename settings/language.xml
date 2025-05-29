@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+   <language version="7.0.0" htmlParse="true">
+;
+
+        <!-- MULTI-PURPOSE MODALS -->
+        <item id="stepCompleteMessage">Você concluiu essa etapa, por favor clique em &quot;{{{b}}}Continue{{{/b}}}&quot; no canto inferior direito da sua tela e continue para a próxima etapa.</item>
+        <item id="logInFirst">Por favor, complete essa etapa primeiro.</item>
+
+        <!-- FOOTER -->
+        <item id="fontSizeText">Tamanho do texto</item>
+        <item id="cardHeightText">Tamanho do card</item>
+        <item id="btnHelp">Ajuda</item>
+        <item id="btnHelpLanding">Ajuda</item>
+        <item id="btnHelpConsent"></item>
+
+
+        <item id="btnNext">Continue</item>
+        <item id="btnNextLanding">Iniciar</item>
+        <item id="btnNextConsent"></item>
+
+        <!-- LANDING SCREEN -->
+        <item id="landingHead">Instituto de Pesquisa Econômica Aplicada</item>
+        <item id="welcomeText">{{{h2}}}Questionário de Percepções a respeito de Avaliação de Políticas Públicas.{{{/h2}}}{{{br/}}}{{{br/}}} A metodologia Q é uma técnica que combina aspectos qualitativos e quantitativos para investigar como as pessoas percebem determinados temas. Por meio dela, solicitamos que você organize um conjunto de afirmações de acordo com o quanto mais ou menos concorda com cada uma, promovendo uma reflexão estruturada sobre o tema em questão. Abaixo, é disponibilizado um vídeo demonstrativo que explica como realizar esse procedimento. Assistir ao vídeo não é obrigatório, e você poderá ver instruções sempre que quiser, clicando no botão de ajuda localizado na parte inferior da tela. {{{br/}}}{{{br/}}}{{{p}}}{{{/p}}}{{{br/}}}{{{br/}}}{{{br/}}} {{{center}}}{{{iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lMy4ARVEcCI?rel=0&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen}}}{{{/iframe}}}{{{/center}}}</item>
+
+        <!-- LANDING -> ACCESS CONTROL - only displayed if access is restricted -->
+        <item id="accessCodeText">Access Code</item>
+        <item id="accessInputText"></item>
+        <item id="loginSubmitButtonText">Enviar</item>
+        <item id="loginPartIdText">Entre com seu apelido/código</item>
+        <item id="accessCodeWarning"></item>
+        <item id="partIdWarning"></item>
+        <item id="loginHeaderText"></item>
+        <item id="loginWelcomeText">{{{center}}}{{{h3}}}Leia ccm atenção!{{{/h3}}}{{{/center}}}{{{br/}}}
+Entre com o mesmo apelido/código que utilizou nos outros dois questionários</item>
+        <item id="landingHelpModalHead">Bem vindo(a)!</item>
+        <item id="landingHelpModalText">Obrigado por participar dessa pesquisa. Por favor clique em &quot;{{{b}}}Continue{{{/b}}}&quot; no canto inferior direito da sua tela e continue para a próxima etapa.</item>
+
+        <!-- LOCAL DATA COLLECTION -->  
+        <item id="localHeader">Offline Q-sort Control Panel</item>
+        <item id="partIdText">Participant Name</item>
+        <item id="usercodeText">Usercode</item>
+        <item id="localStartButtonText">Start Q-sort</item>
+        <item id="localDeleteButtonText">Delete</item>
+        <item id="localDownloadButtonText">Save Q-sort Data to Disk</item>
+        <item id="storedQsortsHeaderText">Stored Q-sorts</item>
+        <item id="localDeleteModalHead">Delete Data Stored in Browser?</item>
+        <item id="localDeleteModalText">This will delete the particpant Q-sort data that is currently stored in the browser. You would usually only do this when you are starting a new project.{{{br/}}}{{{br/}}}{{{b}}}CAUTION - Deleted data cannot be recovered.{{{/b}}} {{{br/}}}{{{br/}}} {{{center}}}{{{/center}}}</item>
+        <item id="localParticipantsText">Participants</item>
+        <item id="localSaveBeforeDeleteModalHeader">Delete Disabled</item>
+        <item id="localSaveBeforeDeleteModalText">Save Q sort Data to Disk before deleting.</item>
+        <item id="localSaveDataButton">Save Participant Data to Browser Memory</item>
+        <item id="localSubmitSuccessModalHeader">Success</item>
+        <item id="localSubmitSuccessModalText">Participant Q sort data have been succesfully saved to browser memory</item>
+        <item id="returnToLocalPanelButtonText">Return to Control Panel</item>
+
+        <!-- CONSENT: get permission from participants -->
+        <item id="consentTitleBarText"></item>
+        <item id="consentText"></item>
+        <item id="consentHelpModalHead"></item>
+        <item id="consentHelpModalText"></item>
+
+
+        <!-- PRESORT: rough sorting into three piles -->
+        <item id="titleBarText">Classificação Preliminar</item>
+        <item id="presortAgreement">Concordo (3)</item>
+        <item id="presortStatements">Statements</item>
+        <item id="presortNeutral">Neutro (2)</item>
+        <item id="presortDisagreement">Discordo (1)</item>
+        <item id="presortModalHead">Etapa 1 de 3</item>
+          <item id="presortModalText">{{{b}}}Leia as afirmações abaixo com atenção e separe-as em três grupos:{{{/b}}}{{{br/}}} Um grupo para afirmações que você tende a discordar;{{{br/}}}Um grupo para as que você tende a concordar;{{{br/}}} E um grupo para as demais (neutras/indecisas).{{{br/}}}{{{br/}}} Você poderá fazer ajustes mais tarde.{{{br/}}}{{{br/}}}Para reler estas instruções basta clicar no botão de ajuda na parte inferior da tela.{{{br/}}}{{{br/}}}{{{center}}}{{{iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vtnLuKzpcKQ?rel=0&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen}}}{{{/iframe}}}{{{/center}}}</item>
+        <item id="presortPreventNavModalHead">Navegação bloqueada</item>
+        <item id="presortPreventNavModalText">Por favor, termine a triagem preliminar antes de passar para a próxima etapa.</item>
+        <item id="presortFinishedModalHead">Classificação Preliminar Completa</item>
+        <item id="presortFinishedModalText">Você completou esta etapa. Por favor, clique no botão &quot;Continuar&quot; no canto inferior direito da página para ir para a próxima etapa.</item>
+        <item id="presortOnPageInstructions">{{{div style=&quot;font-size: 24px&quot;}}} Clique e arraste para os cards ou pressione &quot;1&quot;, &quot;2&quot; ou &quot;3&quot;. {{{/div}}}</item>
+        <item id="presortImageSortInstructions">To enlarge an image, hover your mouse pointer over it and double-click. {{{br/}}}{{{br/}}} To compare images, {{{u}}}press and hold{{{/u}}} the {{{b}}}{{{i}}}Shift{{{/i}}}{{{/b}}} key on your keyboard and then double-click on TWO images with your mouse.</item>
+
+        <!-- SORT: sorting (leave blank to skip popup) -->
+        <item id="sortHelpModalHead">Etapa 2 de 3</item>
+        <item id="sortHelpModalText">Nesta etapa, por favor, clique e arraste os cards de declaração para a coluna apropriada com base na sua perspectiva.{{{br/}}} Quanto mais para esquerda menos você concorda e quanto mais para direita mais você concorda.</item>
+        <item id="sortAgreement">Concordo</item>
+        <item id="sortDisagreement">Discordo/Concordo Menos</item>
+        <item id="condOfInst">Classifique os cards de acordo com sua percepção a respeito de metodologias de Avaliação de Políticas Públicas</item>
+        <item id="sortingCompleteModalHead">Sorting Complete</item>
+        <item id="sortingCompleteModalText">Você completou a triagem inicial. Por favor, reserve um momento para confirmar o seu posicionamento das cartas.{{{br/}}}{{{br/}}}Quando você estiver satisfeito com a colocação deles, por favor, clique em {{{b}}}&quot;Continue&quot;{{{/b}}} no canto inferior direito da sua tela e continue para a próxima etapa.</item>
+        <item id="sortPreventNavModalHead">Navegação bloqueada</item>
+        <item id="sortPreventNavModalText">Por favor, termine a ordenação da grade antes de passar para a próxima etapa.</item>
+        <item id="sortOverloadedColumnModalHead">Navegação bloqueada</item>
+        <item id="sortOverloadedColumnModalText">Uma das colunas tem muitas cartas (ela será destacada em laranja e terá uma borda tracejada). Por favor, ajuste a colocação das cartas para que todas as colunas tenham a quantidade correta.</item>
+
+        <!-- POSTSORT: comments - only displayed if showStep3 = true -->
+        <item id="postsortHeader"></item>
+        <item id="postsortInstructions"></item>
+        <item id="placeholder"></item>
+        <item id="postsortAgreement"></item>
+        <item id="postsortDisagreement"></item>
+        <item id="postsortModalHead"></item>
+        <item id="postsortModalText"></item>
+        <item id="postsortPreventNavModalHead"></item>
+        <item id="postsortPreventNavModalText"></item>
+        <item id="postsortBackButtonText"></item>
+
+        <!-- SURVEY: Additional questions, only displayed if showStep4 == true -->
+        <item id="surveyHeader">Questões profissionais e Sociodemográficas</item>
+        <item id="surveyModalHead">Etapa 3 de 3</item>
+        <item id="surveyModalText">Por favor responda ao questionário a seguir para concluir a pesquisa.</item>
+        <item id="surveyPreventNavModalHead">Navegação bloqueada</item>
+        <item id="surveyPreventNavModalText">Por favor, responda às perguntas exigidas antes de passar para a próxima etapa.</item>
+       
+        <!-- SUBMIT -->
+        <item id="btnTransfer">Enviar</item>
+        <item id="transferHead">Última Etapa</item>
+        <item id="transferTextAbove">{{{h1}}}Pronto para Enviar{{{/h1}}}{{{br/}}}{{{br/}}} {{{h2}}}Por favor, clique no botão &quot;Enviar&quot; para transmitir seus resultados..{{{/h2}}}</item>
+        <item id="transferTextBelow">Se a mensagem de confirmação de envio não aparecer, {{{br/}}}por favor, aguarde alguns minutos e clique no botão de enviar novamente.</item>
+        <item id="transferOkModalHeader">Sucesso - O questionário foi enviado.</item>   
+        <item id="transferOkModalText">Muito obrigado pela contribuição!</item>
+        <item id="transferFailModalHeader">Conexão com o servidor falhou</item>   
+        <item id="transferFailModalText">Por favor, tente novamente em alguns momentos.</item>   
+        <item id="fallbackMessage">A transmissão de dados falhou. Por favor, baixe os resultados e envie-os como um anexo para joao.bertogna@ipea.gov.br. Obrigado!</item>   
+        <item id="btnDownload">Baixar</item>   
+        <item id="goodbyeMessage">{{{div}}}Obrigado!{{{/div}}} {{{br/}}}{{{div}}}Você já pode fechar essa página tab{{{/div}}}</item>   
+
+        <!-- EMAIL -->
+        <item id="btnTransferEmail"></item>
+        <item id="clipboardResults"></item>  
+        <item id="clipboardEmail"></item>  
+        <item id="copiedText"></item>  
+        <item id="copyTextError"></item>  
+        <item id="defaultEmailClientFail"></item>   
+        <item id="emailMessage1"></item>
+
+        <!-- LINKING -->
+        <item id="linkedProjectFallbackMessage">undefined</item>   
+         <item id="linkedProjectBtnMessage">undefined</item>   
+
+
+   </language>

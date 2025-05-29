@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+   <statements version="7.0.0" htmlParse="false">
+     <statement id="1">R01) A avaliação de políticas públicas deve ser feita com métodos quantitativos bem fundamentados.  </statement>
+     <statement id="2">R02) Modelos de avaliação que não isolam o efeito da política pública são úteis apenas para fins descritivos.  </statement>
+     <statement id="3">R03) A avaliação de impacto só pode ser considerada rigorosa quando a metodologia permite isolar o efeito da política pública. </statement>
+     <statement id="4">R04) A avaliação de políticas públicas deve ser feita com métodos quantitativos que utilizem inferência causal (diff-in-diff, regressão descontínua etc.).  </statement>
+     <statement id="5">R05) Avaliações de impacto só são confiáveis quando conseguem construir um bom contrafactual.</statement>
+     <statement id="6">R06) Estudos qualitativos podem fornecer evidências tão relevantes quanto os estudos quantitativos na avaliação de políticas públicas. </statement>
+     <statement id="7">R07) Métodos mistos, combinando abordagens quantitativas e qualitativas, são fundamentais para avaliações mais completas. </statement>
+     <statement id="8">R08) A escuta qualificada de implementadores deve ser considerada uma forma legítima de evidência. </statement>
+     <statement id="9">R09) Políticas públicas devem ser avaliadas com base em métodos científicos. </statement>
+     <statement id="10">R10) A escolha dos métodos de avaliação deve respeitar o contexto e os objetivos da política.   </statement>
+     <statement id="11">R11) Políticas públicas são complexas e, portanto, sua avaliação precisa considerar esse aspecto.</statement>
+     <statement id="12">R12) Em avaliação de políticas públicas é fundamental explicitar os pressupostos teóricos e metodológicos adotados.</statement>
+     <statement id="13">R13) A realização de simulações é importante para antecipar os possíveis efeitos positivos e negativos de uma política antes de sua implementação.  </statement>
+     <statement id="14">R14) Elaborar um modelo lógico antes da avaliação de impacto ajuda a esclarecer os objetivos e mecanismos da política. </statement>
+     <statement id="15">R15) A coerência interna entre diagnóstico, objetivos e instrumentos deve ser critério central em avaliações.</statement>
+     <statement id="16">R16) A análise da governança deve fazer parte da avaliação de qualquer política pública. </statement>
+     <statement id="17">R117) A avaliação deve identificar se os papéis e responsabilidades entre os órgãos envolvidos estão claramente definidos.  </statement>
+     <statement id="18">R18) A avaliação deve considerar se os atores responsáveis pela implementação possuem condições reais de executar as ações previstas.  </statement>
+     <statement id="19">R19) O uso de dados administrativos e registros públicos pode aprimorar a qualidade da avaliação de políticas públicas.  </statement>
+   </statements>
