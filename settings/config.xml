@@ -80,43 +80,43 @@
    <item id="showSurvey">true</item>
 
    <item id="survey">
-        <input type="select" required="true">Mulher;;;Homem;;;Pessoa não binária;;;Outro;;;Prefiro não responder</input>
+        <input type="radio" required="true">Mulher;;;Homem;;;Pessoa não binária;;;Outro;;;Prefiro não responder</input>
         <label>Identidade Social</label>
         <note>Gênero</note>
    </item>
 
    <item id="survey">
-        <input type="select" required="true">Branca;;;Preta;;;Parda;;;Amarela;;;Indígena;;;Outra;;;Prefiro não responder</input>
+        <input type="radio" required="true">Branca;;;Preta;;;Parda;;;Amarela;;;Indígena;;;Outra;;;Prefiro não responder</input>
         <label>Identidade social</label>
         <note>Raça</note>
    </item>
 
    <item id="survey">
-        <input type="select" required="true">Graduação;;;Especialização;;;Mestrado;;;Doutorado</input>
+        <input type="radio" required="true">Graduação;;;Especialização;;;Mestrado;;;Doutorado</input>
         <label>Formação</label>
         <note>Nível de Instrução</note>
    </item>
 
    <item id="survey">
-        <input type="select" required="true">Economia;;;Administração;;;Ciências Sociais, Políticas ou Filosofia;;;Relações Internacionais;;;Geografia;;;Engenharias;;;Computação;;;Matemática;;;Ciências da Natureza (Física, Química, Biologia e etc);;;Comunicação ou Letras;;;Outros</input>
+        <input type="radio" required="true">Economia;;;Administração;;;Ciências Sociais, Políticas ou Filosofia;;;Relações Internacionais;;;Geografia;;;Engenharias;;;Computação;;;Matemática;;;Ciências da Natureza (Física, Química, Biologia e etc);;;Comunicação ou Letras;;;Outros</input>
         <label>Formação</label>
         <note>Área do Curso mais elevado concluído</note>
    </item>
 
    <item id="survey">
-        <input type="select" required="true">Entre 1 e 5 anos;;;Entre 5 e 10 anos;;;Entre 10 e 15 anos;;;Entre 15 e 20 anos;;;Mais de 20 anos</input>
+        <input type="radio" required="true">Entre 1 e 5 anos;;;Entre 5 e 10 anos;;;Entre 10 e 15 anos;;;Entre 15 e 20 anos;;;Mais de 20 anos</input>
         <label>Identificação Profissional</label>
         <note>Tempo que está no IPEA</note>
    </item>
 
    <item id="survey">
-        <input type="select" required="true">GABIN;;;CGPLA;;;CGCOM;;;DIDES;;;CGDTI;;;DISET;;;DIRUR;;;DISOC;;;DIMAC;;;DINTE;;;DIEST</input>
+        <input type="radio" required="true">GABIN;;;CGPLA;;;CGCOM;;;DIDES;;;CGDTI;;;DISET;;;DIRUR;;;DISOC;;;DIMAC;;;DINTE;;;DIEST</input>
         <label>Identificação Profissional</label>
         <note>Diretoria/Coordenação-Geral</note>
    </item>
 
    <item id="survey">
-        <input type="select" required="true">Sim;;;Não</input>
+        <input type="radio" required="true">Sim;;;Não</input>
         <label>Identificação Profissional</label>
         <note>No dia a dia você se envolve diretamente em atividades de Avaliação de Políticas Públicas?</note>
    </item>
