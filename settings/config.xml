@@ -80,7 +80,7 @@
    <item id="showSurvey">true</item>
 
    <item id="survey">
-        <input type="radio" required="true">Mulher;;;Homem;;Pessoa não binária;;;Outro;;;Prefiro não responder</input>
+        <input type="radio" required="true">Mulher;;;Homem;;;Pessoa não binária;;;Outro;;;Prefiro não responder</input>
         <label>Identidade Social</label>
         <note>Indique o gênero com qual se identifica</note>
    </item>
