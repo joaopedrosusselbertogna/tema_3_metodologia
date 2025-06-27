@@ -1,0 +1,84 @@
+EQ Web Sort Survey Results Interpretation Guide
+
+Survey item number: 1
+Item type: radio / vertical likert
+Item: Identidade Social
+   response 1: Mulher
+   response 2: Homem;;Pessoa não binária
+   response 3: Outro
+   response 4: Prefiro não responder
+
+Survey item number: 2
+Item type: radio / vertical likert
+Item: Identidade Social
+   response 1: Branca
+   response 2: Preta
+   response 3: Parda
+   response 4: Amarela
+   response 5: Indígena
+   response 6: Outra
+   response 7: Prefiro não responder
+
+Survey item number: 3
+Item type: radio / vertical likert
+Item: Formação
+   response 1: Graduação
+   response 2: Especialização
+   response 3: Mestrado
+   response 4: Doutorado
+
+Survey item number: 4
+Item type: radio / vertical likert
+Item: Formação
+   response 1: Economia
+   response 2: Administração
+   response 3: Ciências Sociais, Políticas ou Filosofia
+   response 4: Relações Internacionais
+   response 5: Geografia
+   response 6: Engenharias
+   response 7: Computação
+   response 8: Matemática
+   response 9: Ciências da Natureza (Física, Química, Biologia e etc)
+   response 10: Comunicação ou Letras
+   response 11: Outros
+
+Survey item number: 5
+Item type: radio / vertical likert
+Item: Identificação Profissional
+   response 1: Entre 1 e 5 anos
+   response 2: Entre 5 e 10 anos
+   response 3: Entre 10 e 15
+   response 4: Entre 15 e 20
+   response 5: Mais de 20
+
+Survey item number: 6
+Item type: radio / vertical likert
+Item: Identificação Profissional
+   response 1: GABIN
+   response 2: CGPLA
+   response 3: CGCOM
+   response 4: DIDES
+   response 5: CGDTI
+   response 6: DISET
+   response 7: DIRUR
+   response 8: DISOC
+   response 9: DIMAC
+   response 10: DINTE
+   response 11: DIEST
+
+Survey item number: 7
+Item type: radio / vertical likert
+Item: Identificação Profissional
+   response 1: Bolsista
+   response 2: Estagiário(a)
+   response 3: Consultor(a)
+   response 4: Técnico de Planejamento e Pesquisa
+   response 5: Servidor de outras carreiras
+   response 6: Outro
+
+Survey item number: 8
+Item type: radio / vertical likert
+Item: Identificação Profissional
+   response 1: Sim
+   response 2: Não
+

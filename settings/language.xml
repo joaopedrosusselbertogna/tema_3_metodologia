@@ -30,9 +30,8 @@
         <item id="loginPartIdText">Entre com seu apelido/código</item>
         <item id="accessCodeWarning"></item>
         <item id="partIdWarning"></item>
-        <item id="loginHeaderText"></item>
-        <item id="loginWelcomeText">{{{center}}}{{{h3}}}Leia ccm atenção!{{{/h3}}}{{{/center}}}{{{br/}}}
-Entre com o mesmo apelido/código que utilizou nos outros dois questionários</item>
+        <item id="loginHeaderText">Insira o mesmo apelido/código que utilizou nos questionários anteriores</item>
+        <item id="loginWelcomeText"></item>
         <item id="landingHelpModalHead">Bem vindo(a)!</item>
         <item id="landingHelpModalText">Obrigado por participar dessa pesquisa. Por favor clique em &quot;{{{b}}}Continue{{{/b}}}&quot; no canto inferior direito da sua tela e continue para a próxima etapa.</item>
 
@@ -68,7 +67,7 @@ Entre com o mesmo apelido/código que utilizou nos outros dois questionários</i
         <item id="presortNeutral">Neutro (2)</item>
         <item id="presortDisagreement">Discordo (1)</item>
         <item id="presortModalHead">Etapa 1 de 3</item>
-          <item id="presortModalText">{{{b}}}Leia as afirmações abaixo com atenção e separe-as em três grupos:{{{/b}}}{{{br/}}} Um grupo para afirmações que você tende a discordar;{{{br/}}}Um grupo para as que você tende a concordar;{{{br/}}} E um grupo para as demais (neutras/indecisas).{{{br/}}}{{{br/}}} Você poderá fazer ajustes mais tarde.{{{br/}}}{{{br/}}}Para reler estas instruções basta clicar no botão de ajuda na parte inferior da tela.{{{br/}}}{{{br/}}}{{{center}}}{{{iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vtnLuKzpcKQ?rel=0&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen}}}{{{/iframe}}}{{{/center}}}</item>
+          <item id="presortModalText">{{{b}}}Leia as afirmações abaixo com atenção e separe-as em três grupos:{{{/b}}}{{{br/}}} Um grupo para afirmações que você tende a discordar;{{{br/}}}Um grupo para as que você tende a concordar;{{{br/}}} E um grupo para as demais (neutras/indecisas).{{{br/}}}{{{br/}}} Você poderá fazer ajustes mais tarde.{{{br/}}}{{{br/}}}Para reler estas instruções, basta clicar no botão de ajuda na parte inferior da tela.{{{br/}}}{{{br/}}}{{{center}}}{{{iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vtnLuKzpcKQ?rel=0&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen}}}{{{/iframe}}}{{{/center}}}</item>
         <item id="presortPreventNavModalHead">Navegação bloqueada</item>
         <item id="presortPreventNavModalText">Por favor, termine a triagem preliminar antes de passar para a próxima etapa.</item>
         <item id="presortFinishedModalHead">Classificação Preliminar Completa</item>
@@ -78,12 +77,12 @@ Entre com o mesmo apelido/código que utilizou nos outros dois questionários</i
 
         <!-- SORT: sorting (leave blank to skip popup) -->
         <item id="sortHelpModalHead">Etapa 2 de 3</item>
-        <item id="sortHelpModalText">Nesta etapa, por favor, clique e arraste os cards de declaração para a coluna apropriada com base na sua perspectiva.{{{br/}}} Quanto mais para esquerda menos você concorda e quanto mais para direita mais você concorda.</item>
+        <item id="sortHelpModalText">Nesta etapa, por favor, clique e arraste as afirmações para a coluna apropriada com base na sua perspectiva.{{{br/}}} Quanto mais para esquerda, menos você concorda com a afirmativa; quanto mais para direita, mais você concorda com a afirmativa.</item>
         <item id="sortAgreement">Concordo</item>
         <item id="sortDisagreement">Discordo/Concordo Menos</item>
         <item id="condOfInst">Classifique os cards de acordo com sua percepção a respeito de metodologias de Avaliação de Políticas Públicas</item>
         <item id="sortingCompleteModalHead">Sorting Complete</item>
-        <item id="sortingCompleteModalText">Você completou a triagem inicial. Por favor, reserve um momento para confirmar o seu posicionamento das cartas.{{{br/}}}{{{br/}}}Quando você estiver satisfeito com a colocação deles, por favor, clique em {{{b}}}&quot;Continue&quot;{{{/b}}} no canto inferior direito da sua tela e continue para a próxima etapa.</item>
+        <item id="sortingCompleteModalText">Você completou a triagem inicial. Por favor, reserve um momento para confirmar o posicionamento das afirmações.{{{br/}}}{{{br/}}}Quando você estiver satisfeito com a colocação delas, por favor, clique em {{{b}}}&quot;Continue&quot;{{{/b}}} no canto inferior direito da sua tela e continue para a próxima etapa.</item>
         <item id="sortPreventNavModalHead">Navegação bloqueada</item>
         <item id="sortPreventNavModalText">Por favor, termine a ordenação da grade antes de passar para a próxima etapa.</item>
         <item id="sortOverloadedColumnModalHead">Navegação bloqueada</item>
