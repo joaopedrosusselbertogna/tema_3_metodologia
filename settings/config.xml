@@ -80,7 +80,7 @@
    <item id="showSurvey">true</item>
 
    <item id="survey">
-        <input type="radio" required="true">Mulher;;;Homem;;;Pessoa não binária;;;Outro;;;Prefiro não responder</input>
+        <input type="radio" required="true">Mulher;;;Homem;;Pessoa não binária;;;Outro;;;Prefiro não responder</input>
         <label>Identidade Social</label>
         <note>Indique o gênero com qual se identifica</note>
    </item>
@@ -104,7 +104,7 @@
    </item>
 
    <item id="survey">
-        <input type="radio" required="true">Entre 1 e 5 anos;;;Entre 5 e 10 anos;;;Entre 10 e 15;;;Entre 15 e 20;;;Mais de 20</input>
+        <input type="radio" required="true">Entre 1 e 5 anos;;;Entre 5 e 10 anos;;;Entre 10 e 15 anos;;; Entre 15 e 20 anos;;;Mais de 20 anos</input>
         <label>Identificação Profissional</label>
         <note>Indique o tempo que está no IPEA</note>
    </item>
@@ -116,9 +116,9 @@
    </item>
 
    <item id="survey">
-        <input type="radio" required="true">Bolsista;;;Estagiário(a);;;Consultor(a);;;Técnico de Planejamento e Pesquisa;;;Servidor de outras carreiras;;;Outro</input>
+        <input type="radio" required="true">Bolsista;;;Estagiário;;;Consultor;;;Técnico(a) de Planejamento e Pesquisa;;;Servidor(a) de outras carreiras;;;Outro</input>
         <label>Identificação Profissional</label>
-        <note>indique seu vínculo com o Ipea</note>
+        <note>Indique seu vínculo com o IPEA</note>
    </item>
 
    <item id="survey">
