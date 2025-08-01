@@ -116,7 +116,7 @@
    </item>
 
    <item id="survey">
-        <input type="radio" required="true">Bolsista;;;Estagiário;;;Consultor;;;Técnico(a) de Planejamento e Pesquisa;;;Servidor(a) de outras carreiras;;;Outro</input>
+        <input type="radio" required="true">Bolsista;;;Estagiário(a);;;Consultor(a);;;Técnico(a) de Planejamento e Pesquisa;;;Servidor(a) de outras carreiras;;;Outro</input>
         <label>Identificação Profissional</label>
         <note>Indique seu vínculo com o IPEA</note>
    </item>
