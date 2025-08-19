@@ -4,9 +4,10 @@ Survey item number: 1
 Item type: radio / vertical likert
 Item: Identidade Social
    response 1: Mulher
-   response 2: Homem;;Pessoa não binária
-   response 3: Outro
-   response 4: Prefiro não responder
+   response 2: Homem
+   response 3: Pessoa não binária
+   response 4: Outro
+   response 5: Prefiro não responder
 
 Survey item number: 2
 Item type: radio / vertical likert
