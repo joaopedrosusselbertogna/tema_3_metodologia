@@ -47,9 +47,9 @@ Survey item number: 5
 Item type: radio / vertical likert
 Item: Identificação Profissional
    response 1: Entre 1 e 5 anos
-   response 2: Entre 5 e 10 anos
-   response 3: Entre 10 e 15 anos
-   response 4: Entre 15 e 20 anos
+   response 2: Entre 6 e 10 anos
+   response 3: Entre 11 e 15 anos
+   response 4: Entre 16 e 20 anos
    response 5: Mais de 20 anos
 
 Survey item number: 6
