@@ -30,7 +30,7 @@
         <item id="loginPartIdText">Entre com seu apelido/código</item>
         <item id="accessCodeWarning"></item>
         <item id="partIdWarning"></item>
-        <item id="loginHeaderText">Insira o mesmo apelido/código que utilizou nos questionários anteriores</item>
+        <item id="loginHeaderText">Insira o mesmo código que utilizou no questionário anterior. Lembrando que o código consiste na letra inicial do seu nome + data de nascimento da mãe. Por exemplo, se a pessoa se chamar Daniel e sua mãe nasceu em 05/06/1990 seu código será D05061990.</item>
         <item id="loginWelcomeText"></item>
         <item id="landingHelpModalHead">Bem vindo(a)!</item>
         <item id="landingHelpModalText">Obrigado por participar dessa pesquisa. Por favor clique em &quot;{{{b}}}Continue{{{/b}}}&quot; no canto inferior direito da sua tela e continue para a próxima etapa.</item>
